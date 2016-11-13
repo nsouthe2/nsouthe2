@@ -7,11 +7,16 @@
 
 <h1>Soccer Players</h1>
 <p>Messi</p>
-<img="messi.jpg">
-
+<img src="http://images.performgroup.com/di/library/GOAL_INTERNATIONAL/be/bb/lionel-messi-1332_1nuufw4tctyfi121y2a3ktpxi1.jpg?t=527116832" alt="Messi" style= "width:200px; hieght:300px">
 <ul>
 <li> His soccer number is 10</li>
-<li>
-
+<li> He plays for barcelona</li>
+<li> He was the first player to win three European golden boot awards</li>
+<p>Carli lloyd</p>
+<img src="https://peopledotcom.files.wordpress.com/2016/08/carli-lloyd-01-800.jpg" alt="Messi" style= "width:200px; hieght:300px">
+<ul>
+<li> Her soccer number is 10</li>
+<li> She plays for the houston dash</li>
+<li> She plays midfielder and 
 </body>
 </html>
