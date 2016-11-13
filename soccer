@@ -6,7 +6,7 @@
 <body>
 
 <h1>Soccer Players</h1>
-<p>Messi</p>
+<p>Lionel Messi</p>
 <img src="http://images.performgroup.com/di/library/GOAL_INTERNATIONAL/be/bb/lionel-messi-1332_1nuufw4tctyfi121y2a3ktpxi1.jpg?t=527116832" alt="Messi" style= "width:200px; hieght:300px">
 <ul>
 <li> His soccer number is 10</li>
@@ -17,6 +17,16 @@
 <ul>
 <li> Her soccer number is 10</li>
 <li> She plays for the houston dash</li>
-<li> She plays midfielder and 
+<li> She plays midfielder and forward</li>
+</ul>
+<p>Christiano Ronaldo</p>
+<img src="http://specials-images.forbesimg.com/imageserve/5756d3a3a7ea43396db26ac5/320x486.jpg?fit=scale&background=000000" alt="Messi" style= "width:200px; hieght:300px">
+<ul>
+<li> His soccer number 7</p>
+<li> He plays for real madrid</li>
+<li> He plays forward</li>
+</ul>
+<p>Megan Rapinoe</p>
+<img src="http://img.bleacherreport.net/img/images/photos/003/552/637/hi-res-6d5427b0d1bfb835c827f5ac74f82737_crop_north.jpg?w=630&h=420&q=75" alt="Messi" style= "width:200px; hieght:300px">
 </body>
 </html>
